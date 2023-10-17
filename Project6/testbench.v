@@ -6,7 +6,7 @@ module testbench();
   wire [ADDER_WIDTH:0] sum;
   
   //instantiate DUT  
-  adder_nbit
+  adder_Nbit
   //change value of parameter during instantiation
   #(.N(ADDER_WIDTH))
   d1(
