@@ -25,6 +25,6 @@ output reg    [BUS_WIDTH-1:0] y - ALU output.
 output reg    carry_out - Overflow bit in addition.
 output reg    borrow - Underflow bit in substruction.
 output        zero - Output is zero.
-output        parity - Output is even
+output        parity - Output is even.
 output reg    invalid_op - Invalid opcode
 ```
