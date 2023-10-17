@@ -8,3 +8,11 @@ The module should have the following interface:
   input [3:0] a
   output [15:0] d
 ```
+
+The sub-module should have the following interface:
+
+```verilog
+  input [2:0] a
+  input enable
+  output reg [7:0] y
+```
