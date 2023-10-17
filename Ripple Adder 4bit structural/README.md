@@ -1,5 +1,5 @@
 # Project 4
-Design and verify a 4 bit ripple carry adder, using "full_adder_structural" module. 
+Design and verify a 4 bit ripple carry adder, using the "full_adder_structural" module. 
 
 ## Interface Definition
 The module should have the following interface:
