@@ -1,0 +1,29 @@
+# Project 9
+Design and verify a 8-bit ALU which supports the following encoded operations:
+| Encoding | Operation | Comment |
+|----------|-----------|---------|
+|3'b001|ADD|-|
+|3'b010|ADD_CARRY|addition of a,b and carry in|
+|3'b011|SUB|-|
+|3'b100|INC|Increment A|
+|3'b101|DEC|Decrement A|
+|3'b110|AND|-|
+|3'b111|NOT|NOT A|
+|3'b1000|ROL|Rotate A left|
+|3'b1001|ROR|Rotate A right|
+
+## Interface Definition
+The module should have the following interface:
+
+```verilog
+input         [BUS_WIDTH-1:0] a - First input of ALU.
+input         [BUS_WIDTH-1:0] b - Second input of ALU.
+input         carry_in - carry input to ALU
+input         [3:0] opcode - Encoded Operation. 
+output reg    [BUS_WIDTH-1:0] y - ALU output.
+output reg    carry_out - Overload bit.
+output reg    borrow
+output        zero - Output is zero.
+output        parity - Output is even
+output reg    invalid_op - Invalid opcode
+```
