@@ -8,7 +8,6 @@ The module should have the following interface:
 input   a  
 input   b
 input   sel
-
 output  y
 ```
 
