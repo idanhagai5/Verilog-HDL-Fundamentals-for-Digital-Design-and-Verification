@@ -22,8 +22,8 @@ input         carry_in - carry input to ALU.
 
 input         [3:0] opcode - Encoded Operation. 
 output reg    [BUS_WIDTH-1:0] y - ALU output.
-output reg    carry_out - Overload bit.
-output reg    borrow
+output reg    carry_out - Overflow bit in addition.
+output reg    borrow - Underflow bit in substruction.
 output        zero - Output is zero.
 output        parity - Output is even
 output reg    invalid_op - Invalid opcode
