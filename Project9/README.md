@@ -9,8 +9,8 @@ Design and verify a 8-bit ALU which supports the following encoded operations:
 |3'b101|DEC|Decrement A|
 |3'b110|AND|-|
 |3'b111|NOT|NOT A|
-|3'b1000|ROL|Rotate A left|
-|3'b1001|ROR|Rotate A right|
+|3'b1000|ROL|Rotate left A|
+|3'b1001|ROR|Rotate right A|
 
 ## Interface Definition
 The module should have the following interface:
