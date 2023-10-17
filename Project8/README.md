@@ -1,4 +1,4 @@
-# Day 1
+# Project8
 Design and verify a 4to16 decoder using 2 3to8 decoders with enable signal.
 
 ## Interface Definition
