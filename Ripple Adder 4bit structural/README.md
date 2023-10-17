@@ -5,10 +5,10 @@ Design and verify a 4 bit ripple carry adder, using "full_adder_structural" modu
 The module should have the following interface:
 
 ```verilog
-input     a
-input     b
-input     carry_in
+  input [3:0] a
+  input [3:0] b
+  input carry_in
 
-output    sum
-output    carry_out
+  output [3:0] sum
+  output carry_out
 ```
