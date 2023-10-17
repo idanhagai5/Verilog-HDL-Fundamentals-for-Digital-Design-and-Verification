@@ -5,10 +5,10 @@ Design and verify a 2:1 mux, using continues assignment.
 The module should have the following interface:
 
 ```verilog
-input   a  
-input   b
-input   sel
+input   a - First leg of the mux 
+input   b - Second leg of the mux 
+input   sel - Mux selector  
 
-output  y
+output  y - Mux output 
 ```
 
