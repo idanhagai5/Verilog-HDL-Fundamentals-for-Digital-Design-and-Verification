@@ -1,4 +1,4 @@
-module adder_nbit
+module adder_Nbit
   //parameter decleration
   #(parameter N=3)
   (input [N-1:0] a,
