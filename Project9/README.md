@@ -18,7 +18,8 @@ The module should have the following interface:
 ```verilog
 input         [BUS_WIDTH-1:0] a - First input of ALU.
 input         [BUS_WIDTH-1:0] b - Second input of ALU.
-input         carry_in - carry input to ALU
+input         carry_in - carry input to ALU.
+
 input         [3:0] opcode - Encoded Operation. 
 output reg    [BUS_WIDTH-1:0] y - ALU output.
 output reg    carry_out - Overload bit.
