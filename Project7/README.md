@@ -1,5 +1,5 @@
 # Project 7 
-Design and verify a N bit decoder
+Design and verify a N bit decoder.
 
 ## Interface Definition
 The module should have the following interface:
