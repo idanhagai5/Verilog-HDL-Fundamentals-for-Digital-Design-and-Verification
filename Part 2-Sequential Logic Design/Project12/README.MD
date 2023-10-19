@@ -5,11 +5,8 @@ Design and verify a PIPO shift register.
 The module should have the following interface:
 
 ```verilog
-input     wire    clk,
-input     wire    reset,
-
-input     wire    a_i,            -> Serial input to the module
-
-output    wire    rising_edge_o,  -> Rising edge output
-output    wire    falling_edge_o  -> Falling edge output
+  input              reset_n - Reset signal.
+  input              clk - Clock signal. 
+  input [3:0]        d - D input of register.
+  output reg [3:0]   q - Q output of register.
 ```
