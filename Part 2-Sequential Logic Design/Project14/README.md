@@ -1,5 +1,6 @@
 # Project 14
 Design and verify a shift-left-right register.
+
 -Can be loaded with an 8-bit value.
 -Can be shift right or left.
 
