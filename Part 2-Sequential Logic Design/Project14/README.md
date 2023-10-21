@@ -1,11 +1,10 @@
 # Project 14
 Design and verify a shift-left-right register.
 
--Can be loaded with an 8-bit value.
--Can be shift right or left.
-
 ## Interface Definition
 The module should have the following interface:
+-Can be loaded with an 8-bit value.
+-Can be shift right or left.
 
 ```verilog
   input              reset_n
