@@ -1,6 +1,6 @@
 # Project 14
 Design and verify a shift-left-right register.
-This register can be loaded with 8-bit value and can be shift left or right.
+This register can be loaded with an 8-bit value and can be shift left or right.
 
 ## Interface Definition
 The module should have the following interface:
