@@ -1,4 +1,4 @@
-# Day 5
+# Project17
 Design and verify a single-port asyncronous read SRAM.
 
 ## Interface Definition
