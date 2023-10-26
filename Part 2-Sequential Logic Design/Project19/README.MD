@@ -13,7 +13,11 @@ Design and verify a FSM of a trafic lights circut.
 |GREEN|Timer = 30|RED|Green = ON|
 ||Timer < 30|GREEN|Green = ON|
 ```verilog
-    input              clk,
-    input [3:0]        address,
-    output reg [7:0]   data_out
+  input               clk,
+  input               reset_n,
+  input               enable,
+  output reg          red, - red light is active
+  output reg          yellow, - yellow light is active
+  output reg          green, - green light is active
+  output [3:0]        state_out - indicates the current state 
 ```
