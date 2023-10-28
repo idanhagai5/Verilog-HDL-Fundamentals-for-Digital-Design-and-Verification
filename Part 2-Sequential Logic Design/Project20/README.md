@@ -1,6 +1,6 @@
 # Project19
 Design and verify a NON overlaping sequence detector.
-The circut is going to detect a sequence of "101".
+The circut is going to detect sequences of "101".
 
 ## Interface Definition
 
