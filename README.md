@@ -6,7 +6,7 @@
 ## Table of contents
 | Project No | EDAPlayground Link | Github |
 | --- | ---- | ---- |
-| 1 | https://www.edaplayground.com/x/9Zwf | [Half Adder-Structural ](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project1)                                |
+| 1 | https://edaplayground.com/x/b_xw | [Half Adder-Structural ](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project1)                                |
 | 2 | https://www.edaplayground.com/x/RmJF | [Half Adder-Behavioral ](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project2)        |
 | 3 | https://www.edaplayground.com/x/AVMC | [Full Adder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project3)                     |
 | 4 | https://www.edaplayground.com/x/TPdQ | [4 Bit Ripple Carry Adder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project4)                           |
