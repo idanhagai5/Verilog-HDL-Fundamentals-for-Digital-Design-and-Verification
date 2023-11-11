@@ -10,7 +10,7 @@
 | 2 | https://edaplayground.com/x/gxXB | [Half Adder-Behavioral ](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project2)        |
 | 3 | https://edaplayground.com/x/c6Wh| [Full Adder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project3)                     |
 | 4 | https://edaplayground.com/x/8uZA | [4 Bit Ripple Carry Adder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project4)                           |
-| 5 | https://www.edaplayground.com/x/qzmr | [2:1 Mux](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project5)                        |
+| 5 | https://edaplayground.com/x/9_SF | [2:1 Mux](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project5)                        |
 | 6 | https://www.edaplayground.com/x/FJXT | [Adder With A Configurable Bus](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project6)                     |
 | 7 | | [N Bit Decoder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project7)                                                                      |
 | 8 | https://www.edaplayground.com/x/T4_7 | [A 4To16 Decoder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project8)        |
