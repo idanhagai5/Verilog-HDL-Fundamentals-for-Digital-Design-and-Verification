@@ -9,7 +9,7 @@
 | 1 | https://www.edaplayground.com/x/9Zwf | [Structural Half Adder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project1)                                |
 | 2 | https://www.edaplayground.com/x/RmJF | [Behavioral Half Adder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project2)        |
 | 3 | https://www.edaplayground.com/x/AVMC | [Full Adder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project3)                     |
-| 4 | https://www.edaplayground.com/x/TPdQ | [4 Bit Ripple Carry Adder]([https://github.com/raulbehl/100DaysOfRTL/tree/main/day4](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project4))                                |
+| 4 | https://www.edaplayground.com/x/TPdQ | [4 Bit Ripple Carry Adder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project4)                           |
 | 5 | https://www.edaplayground.com/x/qzmr | [Day 5: RTL Odd counter](https://github.com/raulbehl/100DaysOfRTL/tree/main/day5)                        |
 | 6 | https://www.edaplayground.com/x/FJXT | [Day 6: RTL Shift register](https://github.com/raulbehl/100DaysOfRTL/tree/main/day6)                     |
 | 7 | | [Day 7: RTL LFSR](https://github.com/raulbehl/100DaysOfRTL/tree/main/day7)                                                                      |
