@@ -10,11 +10,11 @@
 | 2 | https://www.edaplayground.com/x/RmJF | [Behavioral Half Adder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project2)        |
 | 3 | https://www.edaplayground.com/x/AVMC | [Full Adder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project3)                     |
 | 4 | https://www.edaplayground.com/x/TPdQ | [4 Bit Ripple Carry Adder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project4)                           |
-| 5 | https://www.edaplayground.com/x/qzmr | [Day 5: RTL Odd counter](https://github.com/raulbehl/100DaysOfRTL/tree/main/day5)                        |
-| 6 | https://www.edaplayground.com/x/FJXT | [Day 6: RTL Shift register](https://github.com/raulbehl/100DaysOfRTL/tree/main/day6)                     |
-| 7 | | [Day 7: RTL LFSR](https://github.com/raulbehl/100DaysOfRTL/tree/main/day7)                                                                      |
-| 8 | https://www.edaplayground.com/x/T4_7 | [Day 8: RTL Binary to one hot converter](https://github.com/raulbehl/100DaysOfRTL/tree/main/day8)        |
-| 9 | https://www.edaplayground.com/x/tZem | [Day 9: RTL Binary to Gray converter](https://github.com/raulbehl/100DaysOfRTL/tree/main/day9)           |
+| 5 | https://www.edaplayground.com/x/qzmr | [2:1 Mux](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project5)                        |
+| 6 | https://www.edaplayground.com/x/FJXT | [Adder With A Configurable Bus](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project6)                     |
+| 7 | | [N Bit Decoder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project7)                                                                      |
+| 8 | https://www.edaplayground.com/x/T4_7 | [A 4To16 Decoder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project8)        |
+| 9 | https://www.edaplayground.com/x/tZem | [ALU](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project9)           |
 |10 | https://www.edaplayground.com/x/W2uK | [Day 10: RTL Self Reloading Counter](https://github.com/raulbehl/100DaysOfRTL/tree/main/day10)           |
 |11 | https://www.edaplayground.com/x/DrTN | [Day 11: RTL Parallel to serial shifter ](https://github.com/raulbehl/100DaysOfRTL/tree/main/day11)      |
 |12 | https://www.edaplayground.com/x/SGNF | [Day 12: RTL Sequence detector](https://github.com/raulbehl/100DaysOfRTL/tree/main/day12)                |
