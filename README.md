@@ -4,7 +4,7 @@
 
 
 ## Table of contents
-| S No | EDAPlayground Link | Github |
+| Project No | EDAPlayground Link | Github |
 | --- | ---- | ---- |
 | 1 | https://www.edaplayground.com/x/9Zwf | [Half Adder-Structural ](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project1)                                |
 | 2 | https://www.edaplayground.com/x/RmJF | [Half Adder-Behavioral ](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project2)        |
