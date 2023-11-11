@@ -1,4 +1,4 @@
-# Project19
+# Project 20
 Design and verify a NON overlaping sequence detector.
 The circut is going to detect sequences of "101".
 
