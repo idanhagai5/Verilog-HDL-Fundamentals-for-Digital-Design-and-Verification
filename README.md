@@ -6,8 +6,8 @@
 ## Table of contents
 | S No | EDAPlayground Link | Github |
 | --- | ---- | ---- |
-| 1 | https://www.edaplayground.com/x/9Zwf | [Structural Half Adder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project1)                                |
-| 2 | https://www.edaplayground.com/x/RmJF | [Behavioral Half Adder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project2)        |
+| 1 | https://www.edaplayground.com/x/9Zwf | [Half Adder-Structural ](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project1)                                |
+| 2 | https://www.edaplayground.com/x/RmJF | [Half Adder-Behavioral ](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project2)        |
 | 3 | https://www.edaplayground.com/x/AVMC | [Full Adder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project3)                     |
 | 4 | https://www.edaplayground.com/x/TPdQ | [4 Bit Ripple Carry Adder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project4)                           |
 | 5 | https://www.edaplayground.com/x/qzmr | [2:1 Mux](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project5)                        |
@@ -15,8 +15,8 @@
 | 7 | | [N Bit Decoder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project7)                                                                      |
 | 8 | https://www.edaplayground.com/x/T4_7 | [A 4To16 Decoder](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project8)        |
 | 9 | https://www.edaplayground.com/x/tZem | [ALU](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project9)           |
-|10 | https://www.edaplayground.com/x/W2uK | [Day 10: RTL Self Reloading Counter](https://github.com/raulbehl/100DaysOfRTL/tree/main/day10)           |
-|11 | https://www.edaplayground.com/x/DrTN | [Day 11: RTL Parallel to serial shifter ](https://github.com/raulbehl/100DaysOfRTL/tree/main/day11)      |
+|10 | https://www.edaplayground.com/x/W2uK | [D-Latch](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project10)           |
+|11 | https://www.edaplayground.com/x/DrTN | [D Flip-Flop ](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project11)      |
 |12 | https://www.edaplayground.com/x/SGNF | [Day 12: RTL Sequence detector](https://github.com/raulbehl/100DaysOfRTL/tree/main/day12)                |
 |13 | https://www.edaplayground.com/x/qzsm | [Day 13 : RTL Ways to implement Mux](https://github.com/raulbehl/100DaysOfRTL/tree/main/day13)           |
 |14 | https://www.edaplayground.com/x/jky5 | [Day 14 - RTL Fixed Priority Arbiter](https://github.com/raulbehl/100DaysOfRTL/tree/main/day14)          |
