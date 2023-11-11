@@ -1,6 +1,6 @@
 # Verilog Projects
 
-### In the table below, you can find some of the projects i have made during my Verilog course.
+### In the table below, you can find some of the projects I have completed during my Verilog course.
 
 
 ## Table of contents
