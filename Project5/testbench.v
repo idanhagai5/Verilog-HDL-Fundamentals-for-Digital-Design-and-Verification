@@ -22,5 +22,10 @@ module testbench();
       end
     end
   end
+    // Dump VCD
+  initial begin
+    $dumpfile("mux_1bit.vcd");
+    $dumpvars(2, testbench);
+  end
 endmodule
         
