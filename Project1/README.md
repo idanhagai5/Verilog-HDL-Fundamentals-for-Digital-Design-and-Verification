@@ -1,4 +1,5 @@
 # project 1
-A half adder designed using verilog premitives.
+Design and verify a helf adder using verilog premitives.
+
 
 
