@@ -27,4 +27,4 @@
 |19 | https://www.edaplayground.com/x/cYBK | [FSM-Trafic Lights Circut](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project%2019)                                       |
 |20 | https://www.edaplayground.com/x/tQD2 | [Sequence Detector](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project%2020)                      |
 |21 | https://youtu.be/pFO-qRhQbVM | [Synchronous FIFO](https://github.com/idanhagai5/Verilog-HDL-Fundamentals-for-Digital-Design-and-Verification/tree/main/Project%2021)                                                            |
-|22 | https://www.edaplayground.com/x/7dHV | [Day 22 - TB Hello World using SV Classes](https://github.com/raulbehl/100DaysOfRTL/tree/main/day22)     |
+
