@@ -1,5 +1,5 @@
 # Project 9
-Design and verify a 8-bit ALU which supports the following encoded operations:
+Design and verify an 8-bit ALU which supports the following encoded operations:
 | Encoding | Operation | Comment |
 |----------|-----------|---------|
 |3'b0001|ADD|Addition of a and b|
